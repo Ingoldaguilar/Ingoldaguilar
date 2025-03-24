@@ -9,7 +9,6 @@ I’m a final-year Systems Engineering student at Universidad Nacional de Costa 
 * 🌍  I'm based in Alajuela, Costa Rica
 * 🖥️  See my portfolio at [comming soon...](http://.)
 * ✉️  You can contact me at [officialingold@gmail.com](mailto:officialingold@gmail.com)
-* 🚀  I'm currently working on [SUMI - comming soon...](http://s)
 * 🧠  I'm learning Azure DevOps and improving my skills in my main tech stack (React, C#, .NET, SQL Server).
 * 🤝  I'm open to collaborating on impactful projects
 * ⚡  I love learning and collaborating in a team.
